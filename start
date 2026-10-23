@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    // TODO: Write your code here
+    // Declare and initialize your pointers
+    // Check if pointers are NULL
+    // Print the required output
+    
+    return 0;
+}
